@@ -14,9 +14,10 @@
 
 # Inherit some common lineage stuff.
 $(call inherit-product-if-exists, vendor/cm/config/common_full_tablet_wifionly.mk)
-
-# Inherit telephony stuff.
 $(call inherit-product-if-exists, vendor/cm/config/data_only.mk)
+
+# Inherit full base
+$(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/amazon/thor/device.mk)
