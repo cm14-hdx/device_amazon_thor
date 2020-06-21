@@ -1,12 +1,3 @@
-# Audio
-etc/acdbdata/THOR/Bluetooth_cal.acdb
-etc/acdbdata/THOR/General_cal.acdb
-etc/acdbdata/THOR/Global_cal.acdb
-etc/acdbdata/THOR/Handset_cal.acdb
-etc/acdbdata/THOR/Hdmi_cal.acdb
-etc/acdbdata/THOR/Headset_cal.acdb
-etc/acdbdata/THOR/Speaker_cal.acdb
-
 # WiFi firmware
 etc/firmware/ath6k/AR6004/hw3.0/bdata.bin
 etc/firmware/ath6k/AR6004/hw3.0/boardData_Thor_ETSI.bin
