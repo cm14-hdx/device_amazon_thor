@@ -1,10 +1,10 @@
 # WiFi firmware
-etc/firmware/ath6k/AR6004/hw3.0/bdata.bin
-etc/firmware/ath6k/AR6004/hw3.0/boardData_Thor_ETSI.bin
-etc/firmware/ath6k/AR6004/hw3.0/boardData_Thor_ETSI_WAN.bin
-etc/firmware/ath6k/AR6004/hw3.0/boardData_Thor_FCC_WAN.bin
-etc/firmware/wlan/prima/WCNSS_cfg.dat
+etc/firmware/ath6k/AR6004/hw3.0/bdata.bin:vendor/firmware/ath6k/AR6004/hw3.0/bdata.bin
+etc/firmware/ath6k/AR6004/hw3.0/boardData_Thor_ETSI.bin:vendor/firmware/ath6k/AR6004/hw3.0/boardData_Thor_ETSI.bin
+etc/firmware/ath6k/AR6004/hw3.0/boardData_Thor_ETSI_WAN.bin:vendor/firmware/ath6k/AR6004/hw3.0/boardData_Thor_ETSI_WAN.bin
+etc/firmware/ath6k/AR6004/hw3.0/boardData_Thor_FCC_WAN.bin:vendor/firmware/ath6k/AR6004/hw3.0/boardData_Thor_FCC_WAN.bin
+etc/firmware/wlan/prima/WCNSS_cfg.dat:vendor/firmware/wlan/prima/WCNSS_cfg.dat
 
 # Touch calibration
-etc/ad_calib.cfg
+etc/ad_calib.cfg:vendor/etc/ad_calib.cfg
 
