@@ -13,8 +13,8 @@
 # limitations under the License.
 
 # Inherit some common lineage stuff.
-$(call inherit-product-if-exists, vendor/cm/config/common_full_tablet_wifionly.mk)
-$(call inherit-product-if-exists, vendor/cm/config/data_only.mk)
+$(call inherit-product-if-exists, vendor/lineage/config/common_full_tablet_wifionly.mk)
+$(call inherit-product-if-exists, vendor/lineage/config/data_only.mk)
 
 # Inherit full base
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
